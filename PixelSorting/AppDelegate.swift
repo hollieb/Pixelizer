@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Pixelizer
 //
-//  Created by Hollie Bradley on 2/12/17.
-//  Copyright © 2017 Hollie Bradley. All rights reserved.
+//  Created by Hollie Biesinger on 2/12/17.
+//  Copyright © 2017 Hollie Biesinger. All rights reserved.
 //
 
 import UIKit
